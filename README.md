@@ -7,7 +7,7 @@
 [Here](https://app.powerbi.com/groups/689921e0-7b42-4d54-b3af-16face4b488a/reports/9e7a20df-90ee-4c0d-a044-5cb62d5772e6/ReportSection?experience=power-bi) you can find the Link for the Dashboard uploaded on PowerBI service.
 
 ## **Project Description**  
-The Business Insights 360 dashboard developed in Microsoft Power BI, delivers powerful data-driven analytics tailored for AtliQ Hardware. It provides in-depth insights across the company's **Finance**, **Sales**, **Marketing**, and **Supply Chain Management** functions globally. This dynamic solution integrates data from Excel/CSV files and a MySQL database, offering a unified perspective on the company's operations.
+The Business Insights 360 dashboard developed in Microsoft Power BI, delivers powerful data-driven analytics tailored for AtliQ Hardware. It provides in-depth insights across the company's **Finance**, **Sales**, **Marketing**, and **Supply Chain** functions globally. This dynamic solution integrates data from Excel/CSV files and a MySQL database, offering a unified perspective on the company's operations.
 Also, This project delivers actionable insights to stakeholders by addressing their key questions and supporting effective decision-making processes.
 
 ## **Tech Stacks and Tools Used**  
