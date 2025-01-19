@@ -1,9 +1,9 @@
 ### Business_Insights_Dashboard
 
-## **Live Report Link**  
-[View Live Report](https://app.powerbi.com/view?r=eyJrIjoiNWRjZjRmZWQtMGI1NC00NmQzLTk5NGItOGY5ZDYwZTMzYTMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## **Live Dashboard Link**  
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWRjZjRmZWQtMGI1NC00NmQzLTk5NGItOGY5ZDYwZTMzYTMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-# PowerBI service report:
+## PowerBI service:
 [Here](https://app.powerbi.com/groups/689921e0-7b42-4d54-b3af-16face4b488a/reports/9e7a20df-90ee-4c0d-a044-5cb62d5772e6/ReportSection?experience=power-bi) you can find the Link for the Dashboard uploaded on PowerBI service.
 
 ## **Project Description**  
