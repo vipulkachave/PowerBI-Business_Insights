@@ -1,7 +1,7 @@
 ### Business_Insights_Dashboard
 
 ## **Live Report Link**  
-[View Live Report](#) *()*  
+[View Live Report](#) *(https://app.powerbi.com/view?r=eyJrIjoiNWRjZjRmZWQtMGI1NC00NmQzLTk5NGItOGY5ZDYwZTMzYTMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)*  
 
 
 ## **Project Description**  
